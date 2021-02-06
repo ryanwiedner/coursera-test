@@ -1,6 +1,49 @@
 body {
   font-size: 16px;
   color: #fff;
-  background-color: #61122f;
+  background-color: #6B8E23;
   font-family: 'Oxygen', sans-serif;
+}
+
+#header-nav {
+	background-color: #556B2F;
+	border:1px;
+	border-radius: 0;
+}
+
+.navbar-header {
+	float:left;
+	margin-bottom: 15px;
+}
+
+.navbar-brand h1 {
+	font-size: 32px;
+	color: white;
+	text-decoration: none;
+	margin-top: 0;
+	margin-bottom: 0;
+	text-shadow: 2px 2px 2px #A9A9A9;
+}
+
+.navbar-brand a {
+	text-decoration:none;
+}
+
+#nav-list li a {
+	text-align:center;
+	color:white;
+	background-color:#9ACD32;
+}
+
+.jumbotron h1 {
+	text-align: center;
+	color:black;
+}
+
+.jumbotron section {
+	background-color:#6B8E23;
+}
+
+.jumbotron section h2 {
+	text-align:center;
 }
